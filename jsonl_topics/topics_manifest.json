@@ -1,0 +1,175 @@
+{
+  "videos": [
+    {
+      "video_id": "CU2yj826NHk",
+      "title": "AGI, Alignment and Existential Risk",
+      "source": "YouTube (auto-generated captions)",
+      "topics_count": 11
+    },
+    {
+      "video_id": "folTvNDL08A",
+      "title": "A new way to explain explanation (TED Talk 2009)",
+      "source": "YouTube (manual captions)",
+      "topics_count": 10
+    }
+  ],
+  "topics": [
+    {
+      "file": "agi_agi_vs_human_intelligence.jsonl",
+      "topic": "AGI vs Human Intelligence",
+      "entries": 156,
+      "description": "Discussion comparing AGI capabilities to human intelligence",
+      "video": "CU2yj826NHk"
+    },
+    {
+      "file": "agi_universal_computation.jsonl",
+      "topic": "Universal Computation and Turing Machines",
+      "entries": 166,
+      "description": "Fundamentals of universal computation and Turing completeness",
+      "video": "CU2yj826NHk"
+    },
+    {
+      "file": "agi_quantum_computing.jsonl",
+      "topic": "Quantum Computing",
+      "entries": 66,
+      "description": "Quantum computing and its implications for AGI",
+      "video": "CU2yj826NHk"
+    },
+    {
+      "file": "agi_hardware_vs_software.jsonl",
+      "topic": "Hardware vs Software",
+      "entries": 77,
+      "description": "The distinction between hardware capabilities and software",
+      "video": "CU2yj826NHk"
+    },
+    {
+      "file": "agi_control_problem.jsonl",
+      "topic": "The Control Problem",
+      "entries": 101,
+      "description": "Challenges of controlling AGI systems",
+      "video": "CU2yj826NHk"
+    },
+    {
+      "file": "agi_personhood_identity.jsonl",
+      "topic": "Personhood and Identity",
+      "entries": 161,
+      "description": "Philosophical questions about personhood and identity",
+      "video": "CU2yj826NHk"
+    },
+    {
+      "file": "agi_evolution_creativity.jsonl",
+      "topic": "Evolution and Creativity",
+      "entries": 55,
+      "description": "Nature of creativity and evolutionary processes",
+      "video": "CU2yj826NHk"
+    },
+    {
+      "file": "agi_augmentation_amplification.jsonl",
+      "topic": "Human Augmentation",
+      "entries": 52,
+      "description": "How humans augment their abilities with technology",
+      "video": "CU2yj826NHk"
+    },
+    {
+      "file": "agi_values_alignment.jsonl",
+      "topic": "Values and Alignment",
+      "entries": 270,
+      "description": "The values alignment problem in AGI",
+      "video": "CU2yj826NHk"
+    },
+    {
+      "file": "agi_knowledge_predictions.jsonl",
+      "topic": "Knowledge and Predictions",
+      "entries": 110,
+      "description": "The nature of knowledge creation vs prediction",
+      "video": "CU2yj826NHk"
+    },
+    {
+      "file": "agi_chess_expertise.jsonl",
+      "topic": "Chess and Expertise",
+      "entries": 44,
+      "description": "Chess as an example of expertise and capability",
+      "video": "CU2yj826NHk"
+    },
+    {
+      "file": "explanation_human_stagnation.jsonl",
+      "topic": "Human Stagnation and Pre-Scientific Era",
+      "entries": 15,
+      "description": "The long period of human stagnation before scientific progress",
+      "video": "folTvNDL08A"
+    },
+    {
+      "file": "explanation_scientific_revolution.jsonl",
+      "topic": "The Scientific Revolution",
+      "entries": 22,
+      "description": "The emergence of scientific thinking and the Enlightenment",
+      "video": "folTvNDL08A"
+    },
+    {
+      "file": "explanation_empiricism_critique.jsonl",
+      "topic": "Critique of Empiricism",
+      "entries": 8,
+      "description": "Problems with empiricist philosophy of science",
+      "video": "folTvNDL08A"
+    },
+    {
+      "file": "explanation_good_explanations.jsonl",
+      "topic": "Good Explanations (Hard to Vary)",
+      "entries": 18,
+      "description": "The criterion of hard-to-vary explanations",
+      "video": "folTvNDL08A"
+    },
+    {
+      "file": "explanation_bad_explanations.jsonl",
+      "topic": "Bad Explanations (Easy to Vary)",
+      "entries": 15,
+      "description": "Characteristics of bad explanations that can be easily modified",
+      "video": "folTvNDL08A"
+    },
+    {
+      "file": "explanation_testability.jsonl",
+      "topic": "Testability and Falsification",
+      "entries": 12,
+      "description": "The role of testability in scientific theories",
+      "video": "folTvNDL08A"
+    },
+    {
+      "file": "explanation_creationism_critique.jsonl",
+      "topic": "Critique of Creationism",
+      "entries": 12,
+      "description": "Arguments against creationist explanations",
+      "video": "folTvNDL08A"
+    },
+    {
+      "file": "explanation_unseen_reality.jsonl",
+      "topic": "Explanation of the Unseen",
+      "entries": 15,
+      "description": "How science explains unseen phenomena",
+      "video": "folTvNDL08A"
+    },
+    {
+      "file": "explanation_theory_laden.jsonl",
+      "topic": "Theory-Laden Perception",
+      "entries": 9,
+      "description": "Popperian epistemology and theory-laden observation",
+      "video": "folTvNDL08A"
+    },
+    {
+      "file": "explanation_explanationless_theories.jsonl",
+      "topic": "Explanationless Theories",
+      "entries": 10,
+      "description": "Criticism of theories that lack explanatory power",
+      "video": "folTvNDL08A"
+    }
+  ],
+  "format": {
+    "type": "jsonl",
+    "schema": {
+      "text": "string - The subtitle text",
+      "timestamp": "string - Video timestamp (HH:MM:SS,mmm)",
+      "source_video": "string - YouTube video ID",
+      "topic": "string - Topic name"
+    },
+    "total_entries": 1498
+  }
+}
